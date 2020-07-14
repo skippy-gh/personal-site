@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6 {
     body {
         background-color: #2C2D2F;
         color: white;
+        box-shadow: 0 0 2px rgba(255, 0, 0, 0.06);
     }
     html {
         background: #1E1F21;
